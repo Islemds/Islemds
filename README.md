@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there 👋<br>My name is Islem TOUATI, I am a Data Science and AI student from Algeria ✨<br><br>👨🏽‍💻 I worked as a Machine Learning Engineer intern at Legal Doctrine and as a data science intern at AXA .<br>🌱I’m currently learning Machine Learning, NLP, and deep learning.<br>📫 Reach me at: islem.touati@g.enp.edu.dz
+Hi there 👋<br>My name is Islem TOUATI, I am a Data Science and AI student from Algeria ✨<br><br>👨🏽‍💻 I worked as a Machine Learning Engineer intern at Legal Doctrine and AXA Assurance.<br>🌱I’m currently learning Machine Learning, Deep Learning (NLP, Computer Vision).<br>📫 Reach me at: islem.touati@g.enp.edu.dz
 
 
 ## 🌐 Socials:
